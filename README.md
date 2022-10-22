@@ -1,2 +1,2 @@
-# IntroIA
-Introduccion a Inteligencia Artificial
+# Aprendizaje Profundo 
+Aprendizaje Profundo
