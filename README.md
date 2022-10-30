@@ -1,2 +1,2 @@
-# IntroIA
-Introduccion a Inteligencia Artificial
+# CEIA 
+Especialización en Inteligencia Artificial
